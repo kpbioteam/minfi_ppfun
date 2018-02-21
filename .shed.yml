@@ -1,0 +1,10 @@
+categories: [Epigenetics]
+description: This tool uses the internal control probes present on the array to infer
+  between-array technical variation. It is particularly useful for studies comparing
+  conditions with known large-scale differences, such as cancer/normal studies, or
+  between-tissue studies. It has been shown that for such studies, functional normalization
+  outperforms other existing approaches (Jean-Philippe Fortin et al. 2014)
+homepage_url: https://github.com/kpbioteam/minfi_ppfun
+name: minfi_ppfun
+owner: kpbioteam
+remote_repository_url: https://github.com/kpbioteam/minfi_ppfun
